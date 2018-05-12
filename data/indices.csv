@@ -1,0 +1,97 @@
+continent,country,eci,ihdi
+Africa,Botswana,-0.877179,0.433
+Africa,Cameroon,-1.00906,0.348
+Africa,Côte d'Ivoire,-1.14491,0.294
+Africa,Egypt,-0.271803,0.491
+Africa,Ethiopia,-1.46649,0.330
+Africa,Ghana,-1.15991,0.391
+Africa,Guinea,-1.77331,0.270
+Africa,Kenya,-0.57392,0.391
+Africa,Madagascar,-0.964509,0.374
+Africa,Morocco,-0.747625,0.456
+Africa,Mozambique,-1.14672,0.280
+Africa,Namibia,-0.397842,0.415
+Africa,Nigeria,-1.79177,0.328
+Africa,Congo,-0.814235,0.446
+Africa,Senegal,-0.847701,0.331
+Africa,South Africa,-0.188863,0.435
+Africa,Tanzania,-1.0393,0.396
+Africa,Togo,-0.371802,0.332
+Africa,Zambia,-0.562239,0.373
+Africa,Zimbabwe,-0.926026,0.369
+Americas,Argentina,-0.528185,0.698
+Americas,Bolivia,-1.29269,0.478
+Americas,Brazil,-0.079082,0.561
+Americas,Canada,0.3821,0.839
+Americas,Chile,-0.592885,0.692
+Americas,Colombia,-0.216272,0.548
+Americas,Costa Rica,0.005485,0.628
+Americas,Dominican Republic,-0.457736,0.565
+Americas,Ecuador,-1.33499,0.587
+Americas,El Salvador,-0.133223,0.529
+Americas,Guatemala,-0.440422,0.450
+Americas,Honduras,-0.408544,0.443
+Americas,Jamaica,-0.683642,0.609
+Americas,Mexico,0.959052,0.587
+Americas,Nicaragua,-1.13505,0.479
+Americas,Panama,-0.560582,0.614
+Americas,Paraguay,-1.05565,0.524
+Americas,Peru,-0.986909,0.580
+Americas,United States,1.32592,0.796
+Americas,Uruguay,-0.267658,0.670
+Asia,Azerbaijan,-1.63889,0.659
+Asia,Cambodia,-0.534499,0.436
+Asia,Georgia,-0.455472,0.672
+Asia,Hungary,1.40749,0.771
+Asia,India,0.016682,0.454
+Asia,Indonesia,-0.088124,0.563
+Asia,Israel,1.16926,0.778
+Asia,Japan,2.34767,0.791
+Asia,Jordan,-0.004415,0.619
+Asia,Kazakhstan,-0.994658,0.714
+Asia,Lebanon,0.151603,0.603
+Asia,Mongolia,-1.27419,0.639
+Asia,Pakistan,-0.889031,0.380
+Asia,Philippines,0.381438,0.556
+Asia,South Korea,1.97403,0.753
+Asia,Sri Lanka,-0.465842,0.678
+Asia,Thailand,1.05247,0.586
+Asia,Tunisia,0.163278,0.562
+Asia,Turkey,0.364792,0.645
+Asia,Vietnam,-0.06973,0.562
+Asia,Yemen,-1.30363,0.320
+Europe,Albania,-0.650885,0.661
+Europe,Austria,1.66445,0.815
+Europe,Belarus,0.702788,0.745
+Europe,Belgium,0.9484,0.821
+Europe,Bosnia and Herzegovina,0.486929,0.650
+Europe,Bulgaria,0.318417,0.709
+Europe,Croatia,0.745808,0.752
+Europe,Czech Republic,1.56023,0.830
+Europe,Denmark,0.885645,0.858
+Europe,Estonia,0.738564,0.788
+Europe,Finland,1.45829,0.843
+Europe,France,1.20672,0.813
+Europe,Germany,1.91906,0.859
+Europe,Greece,-0.157527,0.758
+Europe,Ireland,1.31565,0.850
+Europe,Italy,1.24787,0.784
+Europe,Latvia,0.373305,0.742
+Europe,Lithuania,0.561721,0.759
+Europe,Macedonia,-0.371769,0.623
+Europe,Moldova,-0.214357,0.628
+Europe,Netherlands,0.860275,0.861
+Europe,Norway,0.682789,0.898
+Europe,Poland,0.832384,0.774
+Europe,Portugal,0.480985,0.755
+Europe,Romania,0.82995,0.714
+Europe,Russia,-0.026792,0.725
+Europe,Serbia,0.316878,0.689
+Europe,Slovakia,1.27947,0.793
+Europe,Slovenia,1.39199,0.838
+Europe,Spain,0.656088,0.791
+Europe,Sweden,1.61477,0.851
+Europe,Switzerland,2.12416,0.859
+Europe,Ukraine,0.2257,0.690
+Europe,United Kingdom,1.34514,0.836
+Oceania,Australia,-0.763708,0.861
